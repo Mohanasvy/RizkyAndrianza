@@ -1,4 +1,4 @@
-1<div align="center">
+<div align="center">
   <img alt="Image" height="250px" width="250px" src="https://files.catbox.moe/8mvnpf.jpg">
 
 <picture>
